@@ -67,8 +67,8 @@
 ## 📫 Let’s Connect!  
 
 [![Email](https://img.shields.io/badge/Email-asbhalerao%40csuchico.edu-red?style=flat&logo=gmail&logoColor=white)](mailto:asbhalerao@csuchico.edu)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-AmolBhalerao-black?style=flat&logo=github)](https://github.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amol-s-bhalerao)  
+[![GitHub](https://img.shields.io/badge/GitHub-AmolBhalerao-black?style=flat&logo=github)](https://github.com/AmolBhalerao8)  
 
 ---
 ⭐️ _Always open to collaborations and research opportunities in AI & Data Science!_
