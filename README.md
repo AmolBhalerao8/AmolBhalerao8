@@ -9,15 +9,7 @@
 
 ## 🛠️ Skills & Tools  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)  
-![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white)  
-![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat)  
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)  ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)  ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=for-the-badge)  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)  ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)  
 
 ---
 
