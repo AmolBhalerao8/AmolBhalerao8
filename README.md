@@ -78,13 +78,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmolBhalerao8&theme=tokyonight" height="165"/>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AmolBhalerao8&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmolBhalerao8&layout=compact&theme=tokyonight" height="165">
-</p>
-
 
 ## 📫 Connect With Me
 
