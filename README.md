@@ -2,9 +2,9 @@
 
 ### Building AI agents, multimodal systems, and automation products powered by LLMs.
 
-⚡ Co-founder & CTO of ZOL [Backed by Koinz Capital]
-🎓 MS in Data Science & Analytics @ California State University, Chico
-🚀 AI Engineer | Startup Builder | Founding Engineer | Data Scientist 
+⚡ Co-founder & CTO of ZOL(https://tryzol.com/) [Backed by Koinz Capital]  
+🎓 MS in Data Science & Analytics @ California State University, Chico  
+🚀 AI Engineer | Startup Builder | Founding Engineer | Data Scientist  
 
 
 ## 🚀 About Me
@@ -71,12 +71,6 @@
 * Voice AI systems
 * AI automation products
 * Multimodal reasoning systems
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmolBhalerao8&theme=tokyonight" height="165"/>
-</p>
 
 
 ## 📫 Connect With Me
