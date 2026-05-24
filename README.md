@@ -2,7 +2,7 @@
 
 ### Building AI agents, multimodal systems, and automation products powered by LLMs.
 
-⚡ Co-founder & CTO of ZOL(https://tryzol.com/) [Backed by Koinz Capital]  
+⚡ Co-founder & CTO of [ZOL](https://tryzol.com/) [Backed by Koinz Capital]  
 🎓 MS in Data Science & Analytics @ California State University, Chico  
 🚀 AI Engineer | Startup Builder | Founding Engineer | Data Scientist  
 
