@@ -81,8 +81,8 @@
 
 ## 🏆 Achievements
 
-* 🥇 1st Place — Chico State Competition ($2,000 Prize)
-* 🏆 Winner — Sunstone Startup Competition ($5,000 Prize)
+* 🥇 1st Place - Chico State Competition ($2,000 Prize)
+* 🏆 Winner - Sunstone Startup Competition ($5,000 Prize)
 * 🥈 CSU Sacramento Startup Challenge Winner
 * 🥈 GrowTech Fest Winner
 * 🏅 Insta Award @ Infosys
